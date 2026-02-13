@@ -1,4 +1,4 @@
-# Tata Smart DTO Analyzer
+# Manufactor Smart DTO Analyzer
 
 AI-powered DTO extraction and analysis tool for engineering documents. Upload documents to extract DTOs, analyze with Azure OpenAI, and store results in CosmosDB.
 

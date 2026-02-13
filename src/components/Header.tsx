@@ -41,7 +41,7 @@ export const Header = () => {
               <Brain className="w-6 h-6 text-brand-foreground" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-Tata-red">Tata Smart DTO Control</h1>
+              <h1 className="text-xl font-bold text-Manufactor-red">Manufactor Smart DTO Control</h1>
               <p className="text-sm text-text-muted">Live extraction • AI analysis • Cosmos audit</p>
             </div>
           </div>
