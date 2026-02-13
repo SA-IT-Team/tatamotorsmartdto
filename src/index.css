@@ -71,8 +71,8 @@
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     --transition-bounce: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 
-     /* Text Tata  */
-    --Tata-red: 0 100% 50%;
+     /* Text Manufactor  */
+    --Manufactor-red: 0 100% 50%;
   }
 
   .dark {
@@ -141,7 +141,7 @@
 
     --sidebar-ring: 217.2 91.2% 59.8%;
 
-     --Tata-red: 0 100% 50%;
+     --Manufactor-red: 0 100% 50%;
   }
 }
 
@@ -183,10 +183,10 @@
 }
 
 @layer utilities {
-  .text-Tata-red {
-    color: hsl(var(--Tata-red));
+  .text-Manufactor-red {
+    color: hsl(var(--Manufactor-red));
   }
-  .bg-Tata-red {
-    background-color: hsl(var(--Tata-red));
+  .bg-Manufactor-red {
+    background-color: hsl(var(--Manufactor-red));
   }
 }

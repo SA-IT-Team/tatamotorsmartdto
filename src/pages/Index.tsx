@@ -430,7 +430,7 @@ const Index = () => {
         <div className="container mx-auto px-6 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-text-muted">
             <div>
-              <p>&copy; 2024 Tata Smart DTO Analyzer. Built for production workloads.</p>
+              <p>&copy; 2024 Manufactor Smart DTO Analyzer. Built for production workloads.</p>
             </div>
             <div className="flex items-center gap-6">
               <span>Keyboard shortcuts: Ctrl+Enter to analyze • Ctrl+K to clear</span>
